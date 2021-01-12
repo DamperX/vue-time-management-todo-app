@@ -2,4 +2,6 @@
 
 ## vue + vuex + vue-router
 
-npm run serve
+npm run serve<br>
+
+This app use localstorage
